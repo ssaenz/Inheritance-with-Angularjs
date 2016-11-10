@@ -1,0 +1,16 @@
+{
+  "name": "hello-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "webpack"
+  },
+  "devDependencies": {
+    "angular": "1.5.8",
+    "angular-ui-bootstrap": "2.1.4",
+    "raw-loader": "^0.5.1",
+    "webpack": "1.12.14"
+  }
+}
